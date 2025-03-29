@@ -1,0 +1,2 @@
+# Prevent node_modules from being pushed to the repository
+node_modules/
